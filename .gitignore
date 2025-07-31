@@ -1,0 +1,10 @@
+# Ignore compiled files
+*.class
+*.exe
+*.dll
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore images if you don’t want to upload
+images/
